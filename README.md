@@ -219,9 +219,13 @@ Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce dépôt 
 
 ---
 
-## ⚖️ Licence
+## ⚠️ Projet à but éducatif uniquement
 
-Ce projet est sous licence [MIT](LICENSE) — libre d'utilisation à des fins éducatives.
+Ce projet a été créé exclusivement dans un objectif de sensibilisation à la cybersécurité, d’éducation et de formation défensive.
+
+L’auteur n’encourage ni ne soutient aucune activité illégale liée au phishing, au quishing ou au vol de données.
+
+Toutes les démonstrations, reproductions de pages et scénarios présentés dans ce dépôt sont réalisés dans un environnement de test contrôlé à des fins pédagogiques uniquement.
 
 ---
 
