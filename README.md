@@ -137,7 +137,7 @@ Faux SMS ou emails de livraison (La Poste, Chronopost...) avec un QR code pour "
 
 ## 🧠 Quiz de sensibilisation
 
-Testez vos connaissances ! Les réponses sont dans le fichier [`quiz/answers.md`](quiz/answers.md).
+Testez vos connaissances ! Les réponses sont dans le fichier [`answers.md`](answers.md).
 
 **Question 1** : Vous recevez un email de votre banque avec un QR code vous demandant de "vérifier votre compte". Que faites-vous ?
 - A) Je scanne le QR code car c'est ma banque
