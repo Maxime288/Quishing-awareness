@@ -199,11 +199,17 @@ Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce dépôt 
 
 ## ⚠️ Projet à but éducatif uniquement
 
-Ce projet a été créé exclusivement dans un objectif de sensibilisation à la cybersécurité, d’éducation et de formation défensive.
+Ce projet est développé exclusivement à des fins de sensibilisation, d’éducation et de recherche en cybersécurité défensive.
 
-L’auteur n’encourage ni ne soutient aucune activité illégale liée au phishing, au quishing ou au vol de données.
+Il a pour objectif d’aider à comprendre les techniques de phishing et de quishing dans un cadre strictement pédagogique et contrôlé.
 
-Toutes les démonstrations, reproductions de pages et scénarios présentés dans ce dépôt sont réalisés dans un environnement de test contrôlé à des fins pédagogiques uniquement.
+Aucune activité illégale n’est encouragée ou facilitée.
+
+Les scénarios présentés ainsi que le site de démonstration associé sont des environnements de simulation destinés à la formation.
+
+👉 Aucune donnée personnelle, sensible ou authentique n’est collectée, stockée ou exploitée.
+
+Ce projet ne reproduit aucun service officiel réel dans le but de tromper des utilisateurs, mais uniquement pour illustrer des mécanismes d’attaque dans un contexte éducatif.
 
 ---
 
