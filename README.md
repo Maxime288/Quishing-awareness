@@ -185,28 +185,6 @@ Testez vos connaissances ! Les réponses sont dans le fichier [`answers.md`](ans
 
 ---
 
-## 📂 Structure du dépôt
-
-```
-quishing-sensibilisation/
-│
-├── README.md                    ← Vous êtes ici
-├── quiz/
-│   ├── questions.md             ← Quiz de sensibilisation
-│   └── answers.md               ← Réponses commentées
-├── exemples/
-│   ├── email-quishing.png       ← Exemple d'email frauduleux annoté
-│   ├── parking-quishing.png     ← Exemple de QR code parking frauduleux
-│   └── sms-quishing.png         ← Exemple de SMS frauduleux
-├── affiches/
-│   ├── affiche-sensibilisation.pdf  ← Affiche à imprimer
-│   └── infographie-quishing.pdf     ← Infographie explicative
-└── presentation/
-    └── slides-quishing.pdf      ← Support de présentation
-```
-
----
-
 ## 🤝 Contribuer
 
 Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce dépôt :
